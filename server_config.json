@@ -1,0 +1,20 @@
+{
+    "versionName" : "3.0.1",
+    "versionCode" : 1,
+    "versionFormat" : "%versionName% or %versionCode%",
+    "updateURL" : {
+        "en_us" : "https://github.com/xiakkto/Ivtechsky3"
+    },
+        "changelogs" : {
+        "3.0.1" : [
+            "First Version",
+        ],
+        "3.0.2" : [
+            "Nope"
+        ]
+    },
+    "welcomeMessage" : {
+        "tag" : ["Welcome Ivtechsky3!"],
+        "tag2" : ["Oh!"]
+    }
+}
